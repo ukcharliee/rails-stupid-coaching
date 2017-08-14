@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.main {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.submit:hover {
+  background-color: teal;
+}
